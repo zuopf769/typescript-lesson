@@ -31,7 +31,7 @@ export default {
     }),
     serve({
       port: 3000,
-      // open: true,
+      open: true,
       openPage: "/public/index.html",
     }),
   ],
